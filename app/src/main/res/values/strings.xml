@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWebViewsSqlite</string>
+    <string name="save_contact">save_contact</string>
+    <string name="display_contact">display_contact</string>
+    <string name="go_to_second_for_result">go_to_second_for_result</string>
+    <string name="go_to_second">go_to_second</string>
+</resources>
